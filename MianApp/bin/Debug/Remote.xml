@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<updateFiles>
+  <file path="MianApp.exe" url="http://www.cisharp.com/packet/MianApp.exe" lastver="1.0.0.0" size="7680" version="0fbc6fa8a047c9f1f6dc6eabd08bbd5a" />
+  <file path="MianApp.exe.config" url="http://www.cisharp.com/packet/MianApp.exe.config" lastver="" size="187" version="02e79d37bf740d99ebb8af343098c387" />
+</updateFiles>
