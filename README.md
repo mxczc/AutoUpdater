@@ -6,3 +6,5 @@
 2）把更新配置文件和更新文件放到服务器相应路径中。
 
 2）在主程序中调用AutoUpdater，即可执行自动更新。
+
+https://www.cisharp.com/archives/155.html
